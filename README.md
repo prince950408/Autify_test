@@ -1,5 +1,5 @@
 
-# Backend Engineer Take Home Test (Daniel)
+# Backend Engineer Take Home Test
 
 A command line program that can fetch web pages and saves them to disk for later retrieval and browsing.
 
